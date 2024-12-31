@@ -38,8 +38,7 @@ Domain: https://auth.get-fusion.com
 - **Request Body**:
   ```json
   {
-    "Hwid": "string",
-    "Username": "string (optional)"
+    "Hwid": "string"
   }
   ```
 - **Response**:
